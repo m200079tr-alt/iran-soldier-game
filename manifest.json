@@ -1,0 +1,23 @@
+{
+  "name": "سرباز ایرانی",
+  "short_name": "سرباز ایرانی",
+  "description": "بازی سرباز ایرانی - هواپیما و پهپادهای دشمن را نابود کن!",
+  "start_url": "/iran-soldier-game/",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#1a1a2e",
+  "theme_color": "#c8102e",
+  "lang": "fa",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
